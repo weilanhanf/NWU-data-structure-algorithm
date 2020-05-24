@@ -3,6 +3,9 @@
 #include<algorithm>
 using namespace std;
 
+//https://github.com/weilanhanf/NWU_data_structure_algorithm
+//https://www.cnblogs.com/welan/category/1328658.html
+
 //求字符平台中的最大字符平台：
 //一个字符串中的任意一个子序列，若子序列中个字符均相同则称字符平台，
 //输入任意字符串 S 时，输出 S 中长度最大的所有字符平台的起始位置以及所

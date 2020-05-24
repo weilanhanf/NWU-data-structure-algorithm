@@ -4,6 +4,9 @@
 #include<math.h> 
 using namespace std;
 
+//https://github.com/weilanhanf/NWU_data_structure_algorithm
+//https://www.cnblogs.com/welan/category/1328658.html
+
 //输入几名职工工资金额，统计最少须领多少个 100 元，50 元，20 元，10 元，
 //5 元，2 元，1 元，5 角，2 角，1 角，5 分，2 分，1 分才能实现顺利发放？
 //假设职工数 n=5，工资分别为：786.98，1038.76，1053.72，1234.98，1653.33

@@ -2,6 +2,10 @@
 #include<string.h>
 #include<algorithm>
 
+//https://github.com/weilanhanf/NWU_data_structure_algorithm
+//https://www.cnblogs.com/welan/category/1328658.html
+
+
 using namespace std;
 
 

@@ -3,7 +3,8 @@
 #include<algorithm>
 using namespace std;
 
- 
+ //https://github.com/weilanhanf/NWU_data_structure_algorithm
+//https://www.cnblogs.com/welan/category/1328658.html
  
 //甲、乙、丙、丁四人共有糖若干块，甲先拿出一些糖分给另外三人，使他们
 //三人的糖数加倍；乙拿出一些糖分给另外三人，也使他们三人的糖数加倍；丙、

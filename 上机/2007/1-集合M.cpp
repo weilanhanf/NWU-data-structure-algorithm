@@ -4,6 +4,10 @@
 #include<algorithm>
 using namespace std;
 
+//https://github.com/weilanhanf/NWU_data_structure_algorithm
+//https://www.cnblogs.com/welan/category/1328658.html
+
+
 const int maxn = 10000;
 int M[100]={0}, p[maxn]={1};
 int num=0;

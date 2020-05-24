@@ -4,6 +4,9 @@
 #include<algorithm>
 using namespace std;
 
+//https://github.com/weilanhanf/NWU_data_structure_algorithm
+//https://www.cnblogs.com/welan/category/1328658.html
+
 //1. 输入一个字符串，内有数字和非数字字符。如 A123X456Y7A，302ATB567BC，
 //打印字符串中所有连续（指不含非数字字符）的数字所组成的整数，并统计共有
 //多少个整数。

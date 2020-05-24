@@ -1,6 +1,10 @@
 #include<string.h>
 #include<stdio.h>
 
+//https://github.com/weilanhanf/NWU_data_structure_algorithm
+//https://www.cnblogs.com/welan/category/1328658.html
+
+
 // 输入n打印以下n边图形：
 //   A
 //  B*B

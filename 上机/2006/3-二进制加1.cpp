@@ -1,6 +1,9 @@
 #include<stdio.h>
 #include<string.h> 
 
+//https://github.com/weilanhanf/NWU_data_structure_algorithm
+//https://www.cnblogs.com/welan/category/1328658.html
+
 
 typedef struct LNode{
 	int data;
